@@ -1,0 +1,22 @@
+{
+  "name": "doge",
+  "version": "1.0.0",
+  "description": "Doge doge doge demo demo demo ### subheader 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louiseedstrom/doge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/louiseedstrom/doge/issues"
+  },
+  "homepage": "https://github.com/louiseedstrom/doge#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
